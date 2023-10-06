@@ -1,4 +1,4 @@
-package com.wiredbrain.friends;
+package com.wiredbrains.friends;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
